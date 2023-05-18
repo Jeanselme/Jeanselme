@@ -1,4 +1,8 @@
-### Hi there 👋
+:man_technologist: - Hello ! I am Vincent, a PhD student at the University of Cambridge.
+
+:stethoscope: - My research interest lies in developing machine learning models for temporal data with a particular focus on inequalities in medical care access and delivery.
+
+More details on my [webpage](https://jeanselme.github.io/). Reach out if you'd like to collaborate !
 
 <!--
 **Jeanselme/Jeanselme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
