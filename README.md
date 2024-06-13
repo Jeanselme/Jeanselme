@@ -1,6 +1,8 @@
-👨‍💻 - Hello ! I am Vincent, a PhD student at the University of Cambridge.
+👨‍💻 - Hello ! I am Vincent, a postdoctoral reseacher at the University of Cambridge, joining Columbia University in the fall.
 
-🤔 - My research interest lies in developing machine learning models for temporal data with a particular focus on inequalities in medical care access and delivery.
+🤔 - My research interest lies in developing machine learning models to assist medical practitioners with a focus on reducing inequalities in medical care access and delivery.
+
+👨‍🎓 - I am looking for assistant professor positions at the intersection of machine learning, human decision-making and algorithmic fairness in the NYC area. 
 
 More details on my [webpage](https://jeanselme.github.io/). Reach out if you'd like to collaborate !
 
