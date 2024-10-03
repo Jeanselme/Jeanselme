@@ -2,7 +2,7 @@
 
 🤔 - My research interest lies in developing machine learning models to assist medical practitioners with a focus on reducing inequalities in medical care access and delivery.
 
-👨‍🎓 - I am looking for assistant professor positions at the intersection of machine learning, human decision-making and algorithmic fairness in the NYC area. 
+👨‍🎓 - I am looking for assistant professor positions at the intersection of machine learning, human decision-making and algorithmic fairness. 
 
 More details on my [webpage](https://jeanselme.github.io/). Reach out if you'd like to collaborate !
 
