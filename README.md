@@ -1,10 +1,10 @@
-👨‍💻 - Hello ! I am Vincent, a postdoctoral scientist at Columbia University.
+👨‍💻 - Hello! I am Vincent, a postdoctoral scientist at Columbia University.
 
 🤔 - My research interest lies in developing machine learning models to assist medical decisions with a focus on reducing inequalities in medical care access and delivery.
 
-👨‍🎓 - I am looking for positions at the intersection of machine learning, human decision-making and algorithmic fairness. 
+👨‍🎓 - I am looking for positions at the intersection of machine learning, human decision-making, and healthcare. 
 
-More details on my [webpage](https://jeanselme.github.io/). Reach out if you'd like to collaborate !
+More details on my [webpage](https://jeanselme.github.io/). Reach out if you'd like to collaborate!
 
 <!--
 **Jeanselme/Jeanselme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
