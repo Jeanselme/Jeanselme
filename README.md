@@ -1,6 +1,6 @@
 👨‍💻 - Hello! I am Vincent, a postdoctoral scientist at Columbia University.
 
-🤔 - My research interest lies in developing machine learning models to assist medical decisions with a focus on reducing inequalities in medical care access and delivery.
+🤔 - My work consists of leveraging artificial intelligence to enhance clinical decision-making.
 
 👨‍🎓 - I am looking for positions at the intersection of machine learning, human decision-making, and healthcare. 
 
