@@ -1,8 +1,6 @@
-👨‍💻 - Hello! I am Vincent, a postdoctoral scientist at Columbia University.
+👨‍💻 - Hello! I am Vincent, a director of machine learning research at PathomIQ AI.
 
 🤔 - My work consists of leveraging artificial intelligence to enhance clinical decision-making.
-
-👨‍🎓 - I am looking for positions at the intersection of machine learning, human decision-making, and healthcare. 
 
 More details on my [webpage](https://jeanselme.github.io/). Reach out if you'd like to collaborate!
 
